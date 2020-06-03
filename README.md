@@ -37,7 +37,7 @@ Task 3: Methods of evaluating the strength of a clustering algorithm.
 Task 4: Theory behind K-Means, and how to use it for our problem.
 
 
-<img src="pictues/kmeans.png">
+<img src="pictures/kmeans.png">
 
 
 Task 5: Introduction to density-based clustering approaches, and how to use DBSCAN.
